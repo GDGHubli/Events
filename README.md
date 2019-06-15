@@ -1,4 +1,4 @@
-# Collections of GDGHubli events assets/decks and related materials if any
+# Collection of GDGHubli event assets/decks and related materials if any
 
 You can find any additional materials that were suggested to you in respective event directories.
 Links to all the references, if any.
